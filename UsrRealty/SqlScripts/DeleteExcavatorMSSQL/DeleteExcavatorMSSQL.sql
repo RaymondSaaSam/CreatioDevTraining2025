@@ -1,0 +1,1 @@
+DELETE FROM UsrCarBodyType WHERE Name = 'Excavator'
