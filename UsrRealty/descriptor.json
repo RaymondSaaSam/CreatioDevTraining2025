@@ -3,10 +3,10 @@
     "UId": "86336bea-7165-4dda-b039-6256f4dfcd17",
     "Name": "UsrRealty",
     "Type": 1,
-    "ModifiedOnUtc": "\/Date(1738205875000)\/",
+    "ModifiedOnUtc": "\/Date(1738637475000)\/",
     "Maintainer": "Customer",
     "ProjectPath": "Files/UsrRealty.csproj",
-    "Description": "Modified Change",
+    "Description": "Modified Change 2",
     "DependsOn": [
       {
         "UId": "012e2e14-082b-ac2b-da5a-2fc87bad41d4",

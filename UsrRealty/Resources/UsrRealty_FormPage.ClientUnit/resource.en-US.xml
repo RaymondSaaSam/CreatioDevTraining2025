@@ -3,6 +3,7 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Realty form page" />
+			<Item Name="Description" Value="update" />
 			<Item Name="LocalizableStrings.addRecord_177yvbc_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_4bxkvxm_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_9th740a_caption.Value" Value="Add new" />
@@ -11,7 +12,10 @@
 			<Item Name="LocalizableStrings.AreaCannotBeLess.Value" Value="The Area cannot be less than 100.0 sq ft" />
 			<Item Name="LocalizableStrings.Button_5gm99r5_caption.Value" Value="Actions" />
 			<Item Name="LocalizableStrings.CalcAvgPriceMenuItem_caption.Value" Value="Calculate Average Price" />
+			<Item Name="LocalizableStrings.CreateRealtyVisitsButton_caption.Value" Value="Create Realty Visits" />
 			<Item Name="LocalizableStrings.ExpansionPanel_27iet36_title.Value" Value="Realty Visit" />
+			<Item Name="LocalizableStrings.GetAvgPriceMenuItem_caption.Value" Value="Avg Price Web Service" />
+			<Item Name="LocalizableStrings.GetMaxPriceMenuItem_caption.Value" Value="Max Price Web Service" />
 			<Item Name="LocalizableStrings.GridDetailAddBtn_3nsgec2_caption.Value" Value="New" />
 			<Item Name="LocalizableStrings.GridDetailExportDataBtn_rd2z6or_caption.Value" Value="Export to Excel" />
 			<Item Name="LocalizableStrings.GridDetailImportDataBtn_zw45866_caption.Value" Value="Data import" />

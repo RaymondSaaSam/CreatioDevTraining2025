@@ -127,6 +127,27 @@
   "A4": "55fd371f-c5e2-43d9-abab-ba65e2c311cf",
   "A5": "85ca7ad2-f89a-4990-bab5-c94e72bf30be"
 }
++ MetaData.Schema.B2 {
+  "UId": "97d5dcea-3131-e8f2-bc06-6da1b5991d38",
+  "A2": "CreateRealtyVisitsButton_caption",
+  "A3": "55fd371f-c5e2-43d9-abab-ba65e2c311cf",
+  "A4": "55fd371f-c5e2-43d9-abab-ba65e2c311cf",
+  "A5": "85ca7ad2-f89a-4990-bab5-c94e72bf30be"
+}
++ MetaData.Schema.B2 {
+  "UId": "1a220825-c405-fa35-b67d-16057e71c262",
+  "A2": "GetAvgPriceMenuItem_caption",
+  "A3": "55fd371f-c5e2-43d9-abab-ba65e2c311cf",
+  "A4": "55fd371f-c5e2-43d9-abab-ba65e2c311cf",
+  "A5": "85ca7ad2-f89a-4990-bab5-c94e72bf30be"
+}
++ MetaData.Schema.B2 {
+  "UId": "732d2f2a-a2c1-5f69-7ed7-df97067c8cc4",
+  "A2": "GetMaxPriceMenuItem_caption",
+  "A3": "55fd371f-c5e2-43d9-abab-ba65e2c311cf",
+  "A4": "55fd371f-c5e2-43d9-abab-ba65e2c311cf",
+  "A5": "85ca7ad2-f89a-4990-bab5-c94e72bf30be"
+}
 = MetaData.Schema.B2.["fd9e5bd2-19ad-68b5-1356-fe7b39d36f28"].A4 "55fd371f-c5e2-43d9-abab-ba65e2c311cf"
 = MetaData.Schema.B2.["fd9e5bd2-19ad-68b5-1356-fe7b39d36f28"].A5 "85ca7ad2-f89a-4990-bab5-c94e72bf30be"
 = MetaData.Schema.B2.["a77180d7-a9d0-5c7d-a47b-74c0545a1774"].A4 "55fd371f-c5e2-43d9-abab-ba65e2c311cf"
@@ -153,7 +174,7 @@
 = MetaData.Schema.B2.["be578da5-5d7d-ab2f-1e20-3e60b2942dd8"].A5 "85ca7ad2-f89a-4990-bab5-c94e72bf30be"
 = MetaData.Schema.B2.["bdd7993a-a255-b4d6-62d6-fe0785da6821"].A4 "55fd371f-c5e2-43d9-abab-ba65e2c311cf"
 = MetaData.Schema.B2.["bdd7993a-a255-b4d6-62d6-fe0785da6821"].A5 "85ca7ad2-f89a-4990-bab5-c94e72bf30be"
-~ MetaData.Schema.B2 ["974573d6-5f94-b749-be7b-d9a6e15ee719","5ecbc6cc-c7ba-c644-948a-86bf25bb911c","7a990de7-d7a1-8282-038c-841b38a02a6e","146e6ca6-88c3-929f-4e2e-73b82082b283","21e986fc-81ea-0ddb-7000-65849af80f54","af6c3a5e-b038-44ab-c804-0461780234f8","8eac0e8b-1660-4eb1-a1a9-1b7d943019e4","adc8d995-c0cb-0750-f6e9-663eeaaed4a8","9e0c956c-3ada-7e38-bb2d-bc162bedc787","ac9fee60-1ebc-9a63-577f-9e2fbeda7999","46e19d99-60aa-7755-242d-b9b185fd8ebf","f64de533-b012-9ffe-0100-ae0c1b87df9a","0fb480e7-2751-98c9-01f7-8e4446ffe591","a6974f8d-6129-a89a-1ad6-c54734d316ae","442289ca-e96d-5d1d-435b-db8d6db2c9b2","a084fa5d-9e37-46c8-ae4a-af6f17ebc58b","37be25f0-5aac-9bee-16fd-652b366b0ad5","06ad0a08-a614-8f88-83a5-f988d8569820","fd9e5bd2-19ad-68b5-1356-fe7b39d36f28","a77180d7-a9d0-5c7d-a47b-74c0545a1774","a53e6c9a-741a-21de-9293-9d87d6014595","09d13380-5ba0-e839-0eb2-8c4de07ba379","3e977072-67fa-588e-d554-1d5c45e71ae9","231defdf-a768-e23a-fb30-1af82d65f9f9","d6b949fc-ba7c-e706-6a88-0422133b6a4e","ea614858-aa1f-88eb-88df-0df1c32cb9e4","a9f73c3b-ba40-54c2-52c9-53cb864eba03","0011a5bb-3302-742c-a621-c833f2ec8174","67995f5e-d70a-e2a3-5494-a22737ff9c44","be578da5-5d7d-ab2f-1e20-3e60b2942dd8","bdd7993a-a255-b4d6-62d6-fe0785da6821"]
+~ MetaData.Schema.B2 ["974573d6-5f94-b749-be7b-d9a6e15ee719","5ecbc6cc-c7ba-c644-948a-86bf25bb911c","7a990de7-d7a1-8282-038c-841b38a02a6e","146e6ca6-88c3-929f-4e2e-73b82082b283","21e986fc-81ea-0ddb-7000-65849af80f54","af6c3a5e-b038-44ab-c804-0461780234f8","8eac0e8b-1660-4eb1-a1a9-1b7d943019e4","adc8d995-c0cb-0750-f6e9-663eeaaed4a8","9e0c956c-3ada-7e38-bb2d-bc162bedc787","ac9fee60-1ebc-9a63-577f-9e2fbeda7999","46e19d99-60aa-7755-242d-b9b185fd8ebf","f64de533-b012-9ffe-0100-ae0c1b87df9a","0fb480e7-2751-98c9-01f7-8e4446ffe591","a6974f8d-6129-a89a-1ad6-c54734d316ae","442289ca-e96d-5d1d-435b-db8d6db2c9b2","a084fa5d-9e37-46c8-ae4a-af6f17ebc58b","37be25f0-5aac-9bee-16fd-652b366b0ad5","06ad0a08-a614-8f88-83a5-f988d8569820","97d5dcea-3131-e8f2-bc06-6da1b5991d38","1a220825-c405-fa35-b67d-16057e71c262","732d2f2a-a2c1-5f69-7ed7-df97067c8cc4","fd9e5bd2-19ad-68b5-1356-fe7b39d36f28","a77180d7-a9d0-5c7d-a47b-74c0545a1774","a53e6c9a-741a-21de-9293-9d87d6014595","09d13380-5ba0-e839-0eb2-8c4de07ba379","3e977072-67fa-588e-d554-1d5c45e71ae9","231defdf-a768-e23a-fb30-1af82d65f9f9","d6b949fc-ba7c-e706-6a88-0422133b6a4e","ea614858-aa1f-88eb-88df-0df1c32cb9e4","a9f73c3b-ba40-54c2-52c9-53cb864eba03","0011a5bb-3302-742c-a621-c833f2ec8174","67995f5e-d70a-e2a3-5494-a22737ff9c44","be578da5-5d7d-ab2f-1e20-3e60b2942dd8","bdd7993a-a255-b4d6-62d6-fe0785da6821"]
 = MetaData.Schema.B6 "86336bea-7165-4dda-b039-6256f4dfcd17"
 = MetaData.Schema.HD1 "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9"
 + MetaData.Schema.HD15 1
